@@ -11,12 +11,3 @@ if (string===toLowerCase){
 
 
 
-
-var logWhisper='hello';
-var logShout='HELLO!';
-if (logWhisper ==="hello"){
-  console.log("Correct");
-}
-if (logShout==="HELLO"){
-  console.log("Correct");
-}
