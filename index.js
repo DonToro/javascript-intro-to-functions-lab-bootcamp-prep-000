@@ -6,5 +6,5 @@ function whisper(string){
 }
 var logWhisper='hello'
 var logShout='HELLO!'
-console.log(Whisper)
-console.log(Shout)
+console.log(logWhisper)
+console.log(logShout)
