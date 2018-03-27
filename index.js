@@ -1,5 +1,5 @@
-var logWhisper="hello"
-var logShout="HELLO!"
+var Whisper="hello"
+var Shout="HELLO!"
 
 function shout(string){
   return string.toUpperCase()
@@ -7,5 +7,5 @@ function shout(string){
 function whisper(string){
   return string.toLowerCase()
 }
-console.log(logWhisper)
-console.log(logShout)
+console.log(Whisper)
+console.log(Shout)
