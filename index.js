@@ -6,5 +6,9 @@ function whisper(string){
 }
 var logWhisper='hello'
 var logShout='HELLO!'
-console.log(logWhisper)
-console.log(logShout)
+if (logWhisper ==="hello"){
+  console.log("Correct")
+}
+if (logShout==="HELLO"){
+  console.log("Correct")
+}
