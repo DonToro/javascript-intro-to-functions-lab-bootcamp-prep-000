@@ -8,5 +8,5 @@ funtion; shout(string){
   console.log("HELLO!");
 }
 function sayHiToGrandma(string){
-  
+  return
 }
